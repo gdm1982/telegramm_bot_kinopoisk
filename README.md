@@ -17,9 +17,6 @@
 **Для корректной работы должен быть установлен [Redis](https://redis.io/) на ваш РС, сброс кеша выполняется по средством терминала, командой:** ***redis-cli flushall*** **(удалить ключи из всех баз данных Redis)**
 
 ---
-Так же, реализована заготовка Inline кнопок *keyboards/inline/button_find.py*, если потребуется. Реализация в [Git Brache: test_button](https://gitlab.skillbox.ru/denis_granin/python_basic_diploma/-/tree/test_button).
-
----
 ### Пример работы бота:  
 ![Пример работы бота:](./InfoBot.jpg)
 
